@@ -13,15 +13,15 @@ The processed dataset is publicly available on **Zenodo**:
 
 ### 2) Download the Model Weights  
 Download the `.pth` files of the saved models and place them in a folder named Model_weights in the same directory as the dataset.  
-Trained model weights are available in the **GitHub Releases** section:  
-[![GitHub release](https://img.shields.io/github/v/release/Prajyot1901/EDUDA-Brain-Tumor-Classification?label=Download%20Model%20Weights&color=blue)](https://github.com/Prajyot1901/EDUDA-Brain-Tumor-Classification/releases)
+Trained model weights are available in:  
+https://zenodo.org/records/18742420
 
 
 ---
 
 ### 3) Download the Code  
-Clone or download this repository and place the **verification codes** in the same directory as the dataset and Model_weights.
+Download the code and place the **verification codes** in the same directory as the dataset and Model_weights.
+(https://zenodo.org/records/18742420)
 
-```bash
-git clone https://github.com/Prajyot1901/EDUDA-Brain-Tumor-Classification.git
-
+### 3) Run the test codes
+Run the .py files after changing the paths to the original paths.
